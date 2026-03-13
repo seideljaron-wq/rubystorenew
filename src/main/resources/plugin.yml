@@ -1,0 +1,24 @@
+name: ShardPlugin
+version: 3.0.0
+main: de.shardplugin.Main
+api-version: 1.20
+description: Shard system with Ruby Store
+authors: [javakuba]
+softdepend: [PlaceholderAPI]
+
+commands:
+  shardgive:
+    description: Give shards to a player
+    usage: /shardgive <player> <amount>
+  shardremove:
+    description: Remove shards from a player
+    usage: /shardremove <player> <amount>
+  shardadmin:
+    description: Admin commands
+    usage: /shardadmin <add|remove|reload> [player]
+  rubystore:
+    description: Open the Ruby Store
+    usage: /rubystore
+  rubystoreset:
+    description: Set Ruby Store items from shulker in hand
+    usage: /rubystoreset

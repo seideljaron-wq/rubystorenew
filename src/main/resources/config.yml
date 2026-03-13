@@ -1,0 +1,9 @@
+discord:
+  shard-webhook: "https://discord.com/api/webhooks/1482053685180895233/IzT8kM1f2NPwoPT5B59oi16baZTtGt8yiLtbCN1gnGa6MqNmoOxtLYN8oYuS70efsKuM"
+  store-webhook: "https://discord.com/api/webhooks/1481376638439653579/_n3LJSPvKtZxTFSTqplpb_umMeq5W8DJT_3sr-MIXEKCAoUyofOOUeTHE-XGBW3qZzbv"
+
+settings:
+  superadmin: "javakuba"
+  admins:
+    - "javakuba"
+  store-price: 200
